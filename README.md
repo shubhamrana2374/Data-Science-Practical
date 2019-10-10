@@ -18,3 +18,6 @@ This repository is for ITEC657- Data science workshop work. Every week new noteb
 
 **Week 6** - In week 6, Logistic Regression method to do the prediction. Here , breast cancer data has been used from the [UCI repository]              (http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
+There is no Execercise in **Week 7 and Week 8**.
+
+**Week 9** - In week 9, Classifying Iris Species has been done using K nearest neighbour search, making predictions and paramter tunning                with cross validation and plotting misclassification error with K.
